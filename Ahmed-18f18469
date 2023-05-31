@@ -5,4 +5,4 @@ a. Reterive the product ID and sale amount.
 b.If the product ID is not in the HashMap , add it with the sale amount as the value.
 c. If the product ID is in the HashMap , add the sale amount to the exisisting value.
 Calculate other metrics such asthe average of the total revenue and the percentage of total sales that each product represents.
-Output the results to a file or display them on the screen
+Output the results to a file or display them on the screen.
