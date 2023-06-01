@@ -1,3 +1,4 @@
+This is AHM18f18469 which is the second branch 
 Retrieve sales data fo each product from a database or file 
 Create a HashMap to store the total sales for each product
 For each sale in the sales data :
@@ -6,3 +7,5 @@ b.If the product ID is not in the HashMap , add it with the sale amount as the v
 c. If the product ID is in the HashMap , add the sale amount to the exisisting value.
 Calculate other metrics such asthe average of the total revenue and the percentage of total sales that each product represents.
 Output the results to a file or display them on the screen.
+This is AHM18f18469 which is the second branch 
+
